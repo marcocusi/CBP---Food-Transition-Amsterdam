@@ -10,4 +10,4 @@ Red: Society
 ### Overleaf LaTex
 https://www.overleaf.com/project/6ac8a85e9907ab74054e891a/share#3d987a4512cc7b9f2d43a020b4af8710370e3310b602789f
 ### Project Management
-monday.com
+https://www.monday.com
